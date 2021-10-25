@@ -1,0 +1,16 @@
+html,body {
+    background-color: #555;
+}
+.container{
+    text-align: center;
+}
+
+.posts-container{
+    max-width: 55vw;
+}
+
+.post{
+    padding: 5%;
+    margin-top: 2%;
+    border: 2px solid cornflowerblue;
+}
